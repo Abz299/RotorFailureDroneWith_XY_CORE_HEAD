@@ -1,0 +1,1 @@
+# RotorFailureDroneWith_XY_CORE_HEAD
